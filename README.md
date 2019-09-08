@@ -1,10 +1,10 @@
 # Basic Information  
->My name is **Josephine Qiu**. I'm from  Guangdong, China and I'm a current MIS student at UNO.
-I will graduate in May 2020 and I'm interning at Mutual of Omaha as a business analyst. During
-the internship I've had the opportunity to work on requirements gathering, requirements analysis,
-testing design and automation testing in an Agile development environment.This repository of mine 
-contains two major projects that I complete for my class _**Special Topics in ISQA**_. The two projects 
-are respectively _**Data Entry Analysis**_ and _**Data Exploration**_.  
+>My name is **Josephine Qiu**. I'm from China and I'm a current MIS student at UNO. I will graduate 
+in May 2020 and I'm interning at Mutual of Omaha as a business analyst. During the internship I had
+the opportunity to work on requirements gathering, requirements analysis,testing design and automation
+testing in an Agile development environment.This repository of mine contains two major projects that I
+complete for my class _**Special Topics in ISQA**_. The two projects are respectively _**Data Entry Analysis**_
+and _**Data Exploration**_.  
 
 # Links to My Work  
 * [Data Entry Analysis](https://www.google.com)
