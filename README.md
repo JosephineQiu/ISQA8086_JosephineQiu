@@ -1,5 +1,5 @@
 # Basic Information  
->My name is **Josephine Qiu**. I'm from China and I'm a current MIS student at UNO. I will graduate 
+My name is **Josephine Qiu**. I'm from China and I'm a current MIS student at UNO. I will graduate 
 in May 2020 and I'm interning at Mutual of Omaha as a business analyst. During the internship I had
 the opportunity to work on requirements gathering, requirements analysis,testing design and automation
 testing in an Agile development environment.This repository of mine contains two major projects that I
