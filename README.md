@@ -1,7 +1,7 @@
-##Basic Information
+## Basic Information  
 * **Name:** _Josephine Qiu_  
 * **Course:** _Special Topics in ISQA_       
-##License  
+## License  
 * **Brief Information of the License**  
 >Copyright (c) 2019 JosephineQiu
   
@@ -24,9 +24,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 * **More Information**  
 Please click here to for the complete [License information](https://opensource.org/licenses/MIT) for the repository.
-##Links to My Work  
+## Links to My Work  
 * [Data Entry Analysis](https://www.google.com)
 * [Data Exploration](https://www.google.com)
-##A Picture of _Josephine Qiu_
+## A Picture of _Josephine Qiu_
 ![Josephine Qiu](josephine_qiu.jpg)
 
