@@ -8,5 +8,8 @@
 * Some attributes lack appropriate units labeling. File 1 doesn't have the unit specified for both the density and the Temp attributes.File 2 lacks unit labeling for both Depth and Chippo ColonySize. File 3 doesn't have units labeled for Depth and Cuni ColonySize. 
 
 ## New System Suggestion
+| Name of Species | Date | Time | Density | Temperature | Size |
+|-----------------|------|------|---------|-------------|------|
+|                 |      |      |         |             |      |
 
 
