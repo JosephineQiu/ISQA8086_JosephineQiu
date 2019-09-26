@@ -5,7 +5,7 @@
 * The datasets lack explanation of attributes. Not given the explanation of attributes, the data analysts won't be able to gain a good data understanding of the datasets. Also, we have no idea what attribute z in file 1 refers to.
 * Metadata cannot be found for the datasets. This will increase the difficulty to understand the data.
 * Important attributes are missing. Since plankton change their distributions from day to night, it is significant to record the time when the data is collected. 
-* 
+* Some attributes lack appropriate units labeling. File 1 doesn't have the unit specified for both the density and the Temp attributes.File 2 lacks unit labeling for both Depth and Chippo ColonySize. File 3 doesn't have units labeled for Depth and Cuni ColonySize. 
 
 ## New System Suggestion
 
