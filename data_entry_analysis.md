@@ -8,8 +8,22 @@
 * Some attributes lack appropriate units labeling. File 1 doesn't have the unit specified for both the density and the Temp attributes.File 2 lacks unit labeling for both Depth and Chippo ColonySize. File 3 doesn't have units labeled for Depth and Cuni ColonySize. 
 
 ## New System Suggestion
-| Name of Species | Date | Time | Density | Temperature | Size |
-|-----------------|------|------|---------|-------------|------|
-|                 |      |      |         |             |      |
+Based on the issues identified above, I suggest using the following system to generate the datasets:
 
+| ID | Name of Species | Date | Depth | Time | Density | Temperature | Size |
+|----|-----------------|------|-------|------|---------|-------------|------|
+|    |                 |      |       |      |         |             |      |
+
+*ID*: A unique identifying number for each collection of data. 
+*Name of Species*: The name of the species that the data is collected for.
+*Date*: The date when the corresponding data is collected, formatted MM/DD/YYYY.
+*Depth*: The depth of the water collected, described in the unit of meter.
+*Time*: The time when the corresponding data is collected, formatted 00:00PM/AM.
+*Density*: The population of species in each liter of water collected, formatted number/L.
+*Temperature*: The temperature of water collected, described in the unit of Fahrenheit.
+*Size*: The diameter of the colony of species collected, measured in millimeters.
+
+All data collected should follow the uniform structures.
+
+*Proofreader*: Menglin Qiu
 
