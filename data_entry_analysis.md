@@ -14,7 +14,7 @@ Based on the issues identified above, I suggest using the following system to ge
 |----|-----------------|------|-------|------|---------|-------------|------|
 |    |                 |      |       |      |         |             |      |
 
-*ID*: A unique identifying number for each collection of data. 
+*ID: A unique identifying number for each collection of data. 
 *Name of Species*: The name of the species that the data is collected for.
 *Date*: The date when the corresponding data is collected, formatted MM/DD/YYYY.
 *Depth*: The depth of the water collected, described in the unit of meter.
