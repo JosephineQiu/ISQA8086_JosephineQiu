@@ -1,7 +1,7 @@
 # Data Entry Analysis
-## Brief Introduction about this Assignment
-
-
 ## Issues of the Datasets
+* There are missing data from the datasets.
 
 ## New System Suggestion
+
+
