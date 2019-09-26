@@ -19,6 +19,7 @@ Based on the issues identified above, I suggest using the following system to ge
 |----|-----------------|------|-------|------|---------|-------------|------|
 |    |                 |      |       |      |         |             |      |
 
+* All attributes should be given clear definitions.
 **ID**: A unique identifying number for each collection of data.     
 **Name of Species**: The name of the species that the data is collected for.   
 **Date**: The date when the corresponding data is collected, formatted MM/DD/YYYY.  
@@ -28,7 +29,11 @@ Based on the issues identified above, I suggest using the following system to ge
 **Temperature**: The temperature of water collected, described in the unit of Fahrenheit.  
 **Size**: The diameter of the colony of species collected, measured in millimeters.  
 
-**All data collected should follow the uniform structures.**
+* All data collected should follow the uniform structures.
+
+* Metadata should be developed for the datasets.
+
+* With some missing data, we should choose appropriate techniques for data cleaning and resembling. When collecting new data, the situation of missing data should be avoided as much as possible. 
 
 **Proofreader**: _Menglin Qiu_
 
