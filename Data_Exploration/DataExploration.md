@@ -73,5 +73,6 @@ barplot(count_by_site$n,main="Site Names and Phenophase counts",xlab="counts of 
 * Insights:
 This bar plot shows the number of breaking leaf buds grouping by site names. It gives us an overview of how many breaking leave buds happen specifically each site and maybe we would be able to find out the factors that cause the differences in the counts.
 
+
 ## _Proofreader Signoff_
 The above contents have been reviewed and confirmed by _Menglin Qiu_.
