@@ -60,6 +60,16 @@ ggplot(temp_2018,mapping=aes(Date_time,Temperature),na.rm=TRUE) + geom_point()
 *Insights:
 From the trendline we can make the assumption that temperature is functionally dependent on the time of the day. We may consider establishing some functions to dig further into our assumption.
 
+### The Boxplot for Temperature
+![temperature boxplot](boxplot_temp.png)
+* Codes:
+>boxplot(temp_data$Temperature,xlab="temperature")
+
+* Insights:
+In the boxplot we can observe some data outside of the first and second quartile range. It is possible that some of them may be outliers or are even high leverage points. We might consider using some 
+techniques to help us identify whether those points are due to occasional extreme weather situations or happen regular. Once we figure this out, we may have a better insight on how temperature influences
+the plants on breaking leaf buds. 
+
 ### Phenophase Counts for Each Site
 ![breakingleafbuds](breakingleafbuds_barplot.png)
 
