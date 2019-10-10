@@ -22,18 +22,23 @@ This scatterplot is the temperature changes within each year. It shows the range
 
 ### Scatter Plots for Temperature of Each Year:
 *2014: 
+
 ![2014](2014.png)
 
 *2015: 
+
 ![2015](2015.png)
 
 *2016: 
+
 ![2016](2016.png)
 
 *2017: 
+
 ![2017](2017.png)
 
 *2018: 
+
 ![2018](2018.png)
 
 * Codes:
